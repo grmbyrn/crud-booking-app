@@ -2,7 +2,7 @@
   "name": "react-booking-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://grmbyrn.github.io",
+  "homepage": "https://grmbyrn.github.io/booking-app-react",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.0",
     "@fortawesome/free-regular-svg-icons": "^6.2.0",
